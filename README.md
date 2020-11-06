@@ -1,11 +1,19 @@
-### J R S
+## J R S
 
-Analista de Sistemas, plataformas desktop, web e mobile, desenvolvendo soluções para vários segmentos com foco em automação.
-
+## Works Tools  
 :gear: Object Pascal  
+:gear: Delphi  
+:gear: Lazarus  
 :gear: B4Android  
 :floppy_disk: Firebird  
+:floppy_disk: PostgreSQL  
+:floppy_disk: MariaDB  
 :floppy_disk: MSSQL Server  
+:floppy_disk: SQLite  
 :memo: Notepad++
 
-
+## Playlist  
+:musical_note: Black Sabbat  
+:musical_note: Dire Straits  
+:musical_note: Guns N' Roses  
+:musical_note: Jimi Hendrix
