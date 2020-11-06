@@ -12,8 +12,10 @@
 :floppy_disk: SQLite  
 :memo: Notepad++
 
-## Playlist Bands  
-:musical_note: Black Sabbath  
+## My Interests  
+:bookmark_tabs: GNU/Linux  
+:bookmark_tabs: Programming Languages  
+:bookmark_tabs: Database  
 
 ## Playlist Bands  
 :musical_note: Black Sabbath  
@@ -24,8 +26,8 @@
 :musical_note: Led Zeppelin  
 :musical_note: Metallica  
 :musical_note: Ozzy  
-:musical_note: Pink Floyd 
-:musical_note: Queen
-:musical_note: Whitesnake
+:musical_note: Pink Floyd  
+:musical_note: Queen  
+:musical_note: Whitesnake  
 
 
