@@ -18,10 +18,10 @@
 :bookmark_tabs: Database  
 
 ## My Hobby  
-:joystick:  
-:books:  
-:notes:  
-:computer:  
+:joystick: Retro games  
+:books: Reading  
+:notes: Music    
+:computer: Technology  
 
 ## Playlist Bands  
 :musical_note: Black Sabbath  
