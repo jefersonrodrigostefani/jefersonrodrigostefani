@@ -5,6 +5,6 @@ Analista de Sistemas, plataformas desktop, web e mobile, desenvolvendo soluçõe
 :gear: Object Pascal  
 :floppy_disk: Firebird  
 :floppy_disk: MSSQL Server  
-:memo_pencil: Notepad++
+:memo: Notepad++
 
 
