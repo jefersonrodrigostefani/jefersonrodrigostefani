@@ -1,7 +1,11 @@
-### J R S 👋
-#### Jeferson Rodrigo Stefani
+### J R S :computer:
 
-Analista de sistemas, desenvolvendo soluções para as mais diversas áreas com foco em automação.
-Como ferramenta de trabalho, utilizo object pascal (Delphi/Lazarus) e alguns SGDBs (MSSQL, Firebird e SQLLite).
+Analista de Sistemas, plataformas desktop, web e mobile, desenvolvendo soluções para vários segmentos com foco em automação.
 
-Usuário de sistemas operacionais GNU/Linux com foco em programação, utilizo void e slackware.
+:gear: **Ferramentas de trabalho:**  
+:arrow_right: Object Pascal  
+:arrow_right: Firebird  
+:arrow_right: MSSQL Server  
+:arrow_right: Notepad++
+
+
