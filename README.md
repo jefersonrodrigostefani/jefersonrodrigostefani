@@ -17,6 +17,12 @@
 :bookmark_tabs: Programming Languages  
 :bookmark_tabs: Database  
 
+## My Hobby  
+:joystick:  
+:books:  
+:notes:  
+:computer:  
+
 ## Playlist Bands  
 :musical_note: Black Sabbath  
 :musical_note: Dire Straits  
