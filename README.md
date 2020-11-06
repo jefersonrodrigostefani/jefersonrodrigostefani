@@ -1,16 +1,24 @@
-### Hi there 👋
+### J R S 👋
+#### Jeferson Rodrigo Stefani
 
-<!--
-**jefersonrodrigostefani/jefersonrodrigostefani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computação, Música e Matemática.
 
-Here are some ideas to get you started:
+Analista de sistemas, desenvolvendo soluções para as mais diversas áreas com foco em automação.
+Como ferramenta de trabalho, utilizo object pascal (Delphi/Lazarus) e alguns SGDBs (MSSQL, Firebird e SQLLite).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Usuário de sistemas operacionais GNU/Linux com foco em programação, utilizo void e slackware.
+
+Gosto de música, pra ser mais exato de ROCK!!! Minhas bandas preferidas são:
+
+-> Dire Straits
+-> Guns N' Roses (formação clássica)
+-> Led Zeppelin
+-> Ozzy
+-> Pink Floyd (formação David Gilmour)
+
+Músicos que admiro:
+
+-> Slash
+-> Jimi Hendrix
+-> Mark Knopler
+-> David Gilmour
