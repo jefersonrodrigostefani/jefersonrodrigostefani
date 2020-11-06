@@ -2,10 +2,9 @@
 
 Analista de Sistemas, plataformas desktop, web e mobile, desenvolvendo soluções para vários segmentos com foco em automação.
 
-:gear: **Ferramentas de trabalho:**  
-:arrow_right: Object Pascal  
-:arrow_right: Firebird  
-:arrow_right: MSSQL Server  
-:arrow_right: Notepad++
+:gear: Object Pascal  
+:floppy_disk: Firebird  
+:floppy_disk: MSSQL Server  
+:memo_pencil: Notepad++
 
 
