@@ -1,6 +1,4 @@
-# Hello World!  
-
-My name is Jeferson  
+# Hello World! My name is Jeferson...  
 
 ## Works Tools  
 :gear: Object Pascal  
@@ -14,8 +12,20 @@ My name is Jeferson
 :floppy_disk: SQLite  
 :memo: Notepad++
 
-## Playlist  
-:musical_note: Black Sabbat  
+## Playlist Bands  
+:musical_note: Black Sabbath  
+
+## Playlist Bands  
+:musical_note: Black Sabbath  
 :musical_note: Dire Straits  
 :musical_note: Guns N' Roses  
-:musical_note: Jimi Hendrix
+:musical_note: Jimi Hendrix  
+:musical_note: Kiss  
+:musical_note: Led Zeppelin  
+:musical_note: Metallica  
+:musical_note: Ozzy  
+:musical_note: Pink Floyd 
+:musical_note: Queen
+:musical_note: Whitesnake
+
+
