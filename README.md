@@ -25,7 +25,7 @@ Sou um desenvolvedor de sistemas apaixonado por linhas de código e tudo mais qu
 - Sistemas operacionais GNU/Linux
 
 # Games🎮
-- American Truck Simulator, Constructor (Classic), Euro Truck Simulator, PC Building Simulator, Quake II, RollerCoaster Tycoon, Supermarket Simulator  
+American Truck Simulator, Constructor (Classic), Euro Truck Simulator, PC Building Simulator, Quake II, RollerCoaster Tycoon, Supermarket Simulator  
 
 # Playlist🎶
 ACDC, Black Sabbath, Deep Purple, Dire Straits, **Guns N' Roses**, Jimi Hendrix, Kiss, Led Zeppelin, Metallica, Ozzy Osbourne, Pink Floyd, Queen, Rush, Velvet Revolver
