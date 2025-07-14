@@ -3,12 +3,12 @@
 Sou um desenvolvedor de sistemas apaixonado por linhas de código e tudo mais que esteja a sua volta. Focado na resolução de problemas, proponho soluções que eliminem o trabalho repetitivo, minimizando os erros e agilizando os processos.
 
 # Habilidades📝 
-- **Bancos de dados:**
-	- Advantage Database, Firebird, MariaDB, Oracle, SQLite, SQLServer
-- **Linguagens:**
-	- Asp, B4X, Clipper, CSS, Delphi, Harbour, HTML, JavaScript, Lazarus, PHP, Python, PL-SQL, SQL, T-SQL, Visual Basic, VB.Net, VBA
-- **Ferramentas**:
-	- Cygwin, Docker, Git, QEmu, Svn, Virtualbox, Vagrant, WSL
+### Bancos de dados:
+- Advantage Database, Firebird, MariaDB, Oracle, SQLite, SQLServer
+### Linguagens:
+- Asp, B4X, Clipper, CSS, Delphi, Harbour, HTML, JavaScript, Lazarus, PHP, Python, PL-SQL, SQL, T-SQL, Visual Basic, VB.Net, VBA
+### Ferramentas:
+- Cygwin, Docker, Git, QEmu, Svn, Virtualbox, Vagrant, WSL
 
 # Aprendendo📚 
 - Debian
