@@ -11,6 +11,7 @@ Sou um desenvolvedor de sistemas apaixonado por linhas de código e tudo mais qu
 	- Cygwin, Docker, Git, QEmu, Svn, Virtualbox, Vagrant, WSL
 
 # Aprendendo📚 
+- Debian
 - Kotlin
 - Lua
 - Ruby
