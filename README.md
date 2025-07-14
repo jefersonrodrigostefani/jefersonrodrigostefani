@@ -6,7 +6,7 @@ Sou um desenvolvedor de sistemas apaixonado por linhas de código e tudo mais qu
 - **Bancos de dados:**
 	- Advantage Database, Firebird, MariaDB, Oracle, SQLite, SQLServer
 - **Linguagens:**
-	- Asp, B4X, Clipper, CSS, Delphi, Harbour, HTML, JavaScript, Lazarus, PHP, Python, Visual Basic, VB.Net, VBA, T-SQL, PL-SQL
+	- Asp, B4X, Clipper, CSS, Delphi, Harbour, HTML, JavaScript, Lazarus, PHP, Python, PL-SQL, SQL, T-SQL, Visual Basic, VB.Net, VBA
 - **Ferramentas**:
 	- Cygwin, Docker, Git, QEmu, Svn, Virtualbox, Vagrant, WSL
 
