@@ -1,6 +1,6 @@
 # Olá👋
 
-Sou um desenvolvedor de sistemas apaixonado por linhas de código e tudo mais que esteja a sua volta. Focado na resolução de problemas, proponho soluções que eliminem o trabalho repetitivo, minimizando os erros e agilizem os processos.
+Sou um desenvolvedor de sistemas apaixonado por linhas de código e tudo mais que esteja a sua volta. Focado na resolução de problemas, proponho soluções que eliminem o trabalho repetitivo, minimizando os erros e agilizando os processos.
 
 # Habilidades📝 
 - **Bancos de dados:**
