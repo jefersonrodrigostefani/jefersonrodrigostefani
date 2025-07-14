@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá👋
 
-<!--
-**jefersonrodrigostefani/jefersonrodrigostefani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor de sistemas apaixonado por linhas de código e tudo mais que esteja a sua volta. Focado na resolução de problemas, proponho soluções que eliminem o trabalho repetitivo, minimizando os erros e agilizem os processos.
 
-Here are some ideas to get you started:
+# Habilidades📝 
+- **Bancos de dados:**
+	- Advantage Database, Firebird, MariaDB, Oracle, SQLite, SQLServer
+- **Linguagens:**
+	- Asp, B4X, Clipper, CSS, Delphi, Harbour, HTML, JavaScript, Lazarus, PHP, Python, Visual Basic, VB.Net, VBA, T-SQL, PL-SQL
+- **Ferramentas**:
+	- Cygwin, Docker, Git, QEmu, Svn, Virtualbox, Vagrant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Aprendendo📚 
+- Kotlin
+- Lua
+- Ruby
+- Shell script
+
+# Interesses📌  
+- Algoritmos
+- Bancos de dados
+- Linguagens de programação
+- Lógica de programação
+- Sistemas operacionais GNU/Linux
