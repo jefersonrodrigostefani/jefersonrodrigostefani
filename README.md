@@ -8,7 +8,7 @@ Sou um desenvolvedor de sistemas apaixonado por linhas de código e tudo mais qu
 - **Linguagens:**
 	- Asp, B4X, Clipper, CSS, Delphi, Harbour, HTML, JavaScript, Lazarus, PHP, Python, Visual Basic, VB.Net, VBA, T-SQL, PL-SQL
 - **Ferramentas**:
-	- Cygwin, Docker, Git, QEmu, Svn, Virtualbox, Vagrant
+	- Cygwin, Docker, Git, QEmu, Svn, Virtualbox, Vagrant, WSL
 
 # Aprendendo📚 
 - Kotlin
